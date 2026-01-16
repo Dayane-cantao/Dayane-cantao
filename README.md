@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Dayane Cantão 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedora Iniciante • Analista de Sistemas • Dev em Formação</strong>
+  <strong>Desenvolvedora Iniciante • Analista Fiscal de Sistemas • Dev em Formação</strong>
 </p>
 
 ---
